@@ -1,0 +1,2 @@
+# pajaros
+Pajaros, inteligencia artificial
